@@ -50,7 +50,6 @@ __Production Systems Engineer (as an Industrial Engineer)__ _@İzmir Teba HVAC T
 
 ## EDUCATION
 `2015 – 2022` __Doctor of Philosophy (Ph.D.), Information Technology_
-
 _@International Computer Institute, Ege University_
 
 2001 – 2006	Master of Science (M.Sc.), Computer Engineering
