@@ -50,22 +50,24 @@ __Production Systems Engineer (as an Industrial Engineer)__ _@İzmir Teba HVAC T
 
 ## EDUCATION
 `2015 – 2022`
-__Doctor of Philosophy (Ph.D.), Information Technology__
-_@International Computer Institute, Ege University_
+__Doctor of Philosophy (Ph.D.)__ Information Technology
+- _@International Computer Institute, Ege University_
+
 `2001 – 2006`	
-__Master of Science (M.Sc.), Computer Engineering_
+__Master of Science (M.Sc.)__ _Computer Engineering_
+
 _@Dokuz Eylul University_
 
 `1997 – 2001`
-__Bachelor's Degree, Industrial Engineering_ 
-_@Dokuz Eylul University_ 
-(Ranking in the top 0.1% among 1.5 million students in National University Placement Exam)
+__Bachelor's Degree__ _Industrial Engineering_ 
+- _@Dokuz Eylul University_ 
+- (Ranking in the top 0.1% among 1.5 million students in National University Placement Exam)
 
 ## CERTIFICATIONS
-2015 		Project Management Professional (PMP) - Project Management Institute (PMI)
-2013		ISO-27001 Information Security Management - BTYÖN
-2012 		IT Infrastructure Library (ITIL) V3 Foundation - Bir618
-2009		Microsoft SharePoint Development - BilgeAdam
+`2015` 		Project Management Professional (PMP)  Project Management Institute (PMI)
+`2013`		ISO-27001 Information Security Management @BTYÖN
+`2012` 		IT Infrastructure Library (ITIL) V3 Foundation  @Bir618
+`2009`		Microsoft SharePoint Development _@BilgeAdam_
 
 ## ACADEMIC PUBLICATIONS
 - Durmaz, Ç., Yıldırım, K. S., & Kardas, G. 2022. “Virtualizing Intermittent Computing.” IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2022.3176587. Early Access
