@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Caglar Durmaz's CV
 ---
 # Çağlar Durmaz (1)
-Physicist, Mathematician, Cambridge professor.
+Phd, PMP. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="caglar.durmaz@gmail.com">caglar.durmaz@gmail.com</a>
+| <a href="+905325075912">+905325075912</a>
+| <a href="https://en.wikipedia.org/wiki/%c4%b0zmir">Izmir/Turkey</a>
 </div>
 
 
