@@ -2,8 +2,8 @@
 layout: cv
 title: Caglar Durmaz's CV
 ---
-# Çağlar Durmaz <span style="background-color:powderblue;">(2)<span>
-Phd, PMP. 
+# Çağlar Durmaz <span style="font-size:30%;">Phd, PMP<span>
+
 
 <div id="webaddress">
 <a href="caglar.durmaz@gmail.com">caglar.durmaz@gmail.com</a>
