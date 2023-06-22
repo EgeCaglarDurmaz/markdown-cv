@@ -2,7 +2,7 @@
 layout: cv
 title: Caglar Durmaz's CV
 ---
-# Çağlar Durmaz <span style="font-size:70%;">Phd, PMP<span>
+# Çağlar Durmaz <span style="font-size:70%;">PhD, PMP<span>
 
 <div id="webaddress">
 <a href="caglar.durmaz@gmail.com">caglar.durmaz@gmail.com</a>
@@ -55,8 +55,7 @@ __Doctor of Philosophy (Ph.D.)__ Information Technology
 
 `2001 – 2006`	
 __Master of Science (M.Sc.)__ _Computer Engineering_
-
-_@Dokuz Eylul University_
+- _@Dokuz Eylul University_
 
 `1997 – 2001`
 __Bachelor's Degree__ _Industrial Engineering_ 
@@ -64,10 +63,16 @@ __Bachelor's Degree__ _Industrial Engineering_
 - (Ranking in the top 0.1% among 1.5 million students in National University Placement Exam)
 
 ## CERTIFICATIONS
-`2015` 		Project Management Professional (PMP)  Project Management Institute (PMI)
-`2013`		ISO-27001 Information Security Management @BTYÖN
-`2012` 		IT Infrastructure Library (ITIL) V3 Foundation  @Bir618
-`2009`		Microsoft SharePoint Development _@BilgeAdam_
+`2015`
+Project Management Professional (PMP)  Project Management Institute (PMI)
+
+`2013`
+ISO-27001 Information Security Management @BTYÖN
+
+`2012`
+IT Infrastructure Library (ITIL) V3 Foundation  @Bir618
+- `2009`
+- Microsoft SharePoint Development _@BilgeAdam_
 
 ## ACADEMIC PUBLICATIONS
 - Durmaz, Ç., Yıldırım, K. S., & Kardas, G. 2022. “Virtualizing Intermittent Computing.” IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2022.3176587. Early Access
@@ -79,8 +84,7 @@ __Bachelor's Degree__ _Industrial Engineering_
 Acceptance from IEEE IoT Journal with a high impact factor for the paper introducing a novel solution for energy harvesting battery-free IoT devices.
 
 Completion of numerous award-winning projects at TUPRAS
-
-Project Management System, Production Planning Order System, Oil Movement Order System, Correspondence Management System, Change Management System, Ontology of Refinery IT Assets, Custom Tank Stocks and SAP Stocks Integration, IBM-Maximo and SAP PM Integration.
+- _Project Management System, Production Planning Order System, Oil Movement Order System, Correspondence Management System, Change Management System, Ontology of Refinery IT Assets, Custom Tank Stocks and SAP Stocks Integration, IBM-Maximo and SAP PM Integration._
 
 Co-inventor of Patent “EP 3 120 495 B1” - “A System and Method for Monitoring and Managing Information Technology Assets” 
 
