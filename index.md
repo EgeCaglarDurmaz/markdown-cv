@@ -14,15 +14,15 @@ title: Caglar Durmaz's CV
 ## WORK EXPERIENCE
 
 `2016 – now`
-__Managing Director (Founder of the Start-Up)__ _@Integra Information & Communication Technologies_
+__Managing Director (Founder of the Start-Up)__ _@Integra ICT_
 - Leading the company in researching and developing battery-free IoT technologies and edge computing
 - Managing projects supported by the Scientific and Technological Research Council of Turkey 
 - Developing business strategies, managing strategic partnerships, and overseeing product development
 - Applying appropriate project management standards to ensure efficient execution of projects
 - Providing IT-based project support to clients, ensuring their needs were met
 
-### 2011 – 2016
-__IT Coordinator__ _@Turkish Petroleum Refineries Corporation - İzmir Refinery_
+`2011 – 2016`
+__IT Coordinator__ _@Turkish Petroleum Refineries Corporation_
 - Managing in-house/outsourced software development and integrating them with existing systems
 - Reporting and presenting the progress of IT projects to the management
 - Preparing and tracking the yearly budget of the IT department
@@ -30,10 +30,7 @@ __IT Coordinator__ _@Turkish Petroleum Refineries Corporation - İzmir Refinery_
 - Adopting and applying appropriate technical and quality strategies and standards
 
 `2006 – 2011`
-__IT Expert__
-
-_Turkish Petroleum Refineries Corporation - İzmir Refinery_
-
+__IT Expert__ _@Turkish Petroleum Refineries Corporation_
 * Developing and implementing new IT solutions from the scratch 
 * System and business analysis
 * Communicating and coordinating IT-related activities with other business functions
@@ -41,20 +38,25 @@ _Turkish Petroleum Refineries Corporation - İzmir Refinery_
 * Applying change control and configuration management processes
 
 `2005 – 2006`
-__Application Consultant (as a Computer Engineer)__
-_Boğaziçi Yazılım Corporation_
+__Application Consultant (as a Computer Engineer)__ _@Boğaziçi Yazılım Corporation_
 - IT solution analysis, design, and documentation
 - Providing user training and system support for asset management software, IBM-Maximo
 
 `2004 – 2005`
-__Production Systems Engineer (as an Industrial Engineer)__
-
-_İzmir Teba HVAC Tech. Corporation_
+__Production Systems Engineer (as an Industrial Engineer)__ _@İzmir Teba HVAC Tech. Corporation_
 - Managing a team of 20 people; assigning them tasks, and motivating them to meet deadlines
 - Preparing daily, weekly production plans, automation of assembly line 
 - Establishing communication with the suppliers and sales regions
 
 ## EDUCATION
+`2015 – 2022` __Doctor of Philosophy (Ph.D.), Information Technology_
+
+_@International Computer Institute, Ege University_
+
+2001 – 2006	Master of Science (M.Sc.), Computer Engineering
+Dokuz Eylul University
+1997 – 2001	Bachelor's Degree, Industrial Engineering 
+Dokuz Eylul University (Ranking in the top 0.1% among 1.5 million students in National University Placement Exam)
 
 
 ### Specialized in
