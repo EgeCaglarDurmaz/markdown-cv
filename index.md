@@ -4,7 +4,6 @@ title: Caglar Durmaz's CV
 ---
 # Çağlar Durmaz <span style="font-size:30%;">Phd, PMP<span>
 
-
 <div id="webaddress">
 <a href="caglar.durmaz@gmail.com">caglar.durmaz@gmail.com</a>
 | <a href="+905325075912">+905325075912</a>
@@ -12,7 +11,17 @@ title: Caglar Durmaz's CV
 </div>
 
 
-## Currently
+## WORK EXPERIENCE
+
+`2016 – now`
+__Managing Director (Founder of the Start-Up)__
+__Integra Information & Communication Technologies__
+Leading the company in researching and developing battery-free IoT technologies and edge computing
+Managing projects supported by the Scientific and Technological Research Council of Turkey 
+Developing business strategies, managing strategic partnerships, and overseeing product development
+Applying appropriate project management standards to ensure efficient execution of projects
+Providing IT-based project support to clients, ensuring their needs were met
+
 
 Standing on the shoulders of giants
 
