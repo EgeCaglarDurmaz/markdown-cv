@@ -24,7 +24,7 @@ __Integra Information & Communication Technologies__
 - Providing IT-based project support to clients, ensuring their needs were met
 
 `2011 – 2016`
-__IT Coordinator__
+### __IT Coordinator__
 - _Turkish Petroleum Refineries Corporation - İzmir Refinery_
 - Managing in-house/outsourced software development and integrating them with existing systems
 - Reporting and presenting the progress of IT projects to the management
@@ -43,7 +43,20 @@ _Turkish Petroleum Refineries Corporation - İzmir Refinery_
 * Developing IT project management procedures 
 * Applying change control and configuration management processes
 
-Standing on the shoulders of giants
+`2005 – 2006`
+__Application Consultant (as a Computer Engineer)__
+_Boğaziçi Yazılım Corporation_
+- IT solution analysis, design, and documentation
+- Providing user training and system support for asset management software, IBM-Maximo
+
+`2004 – 2005`
+__Production Systems Engineer (as an Industrial Engineer)__
+
+_İzmir Teba HVAC Tech. Corporation_
+- Managing a team of 20 people; assigning them tasks, and motivating them to meet deadlines
+- Preparing daily, weekly production plans, automation of assembly line 
+- Establishing communication with the suppliers and sales regions
+
 
 ### Specialized in
 
