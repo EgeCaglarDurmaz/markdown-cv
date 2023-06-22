@@ -2,7 +2,7 @@
 layout: cv
 title: Caglar Durmaz's CV
 ---
-# Çağlar Durmaz <span style="font-size:30%;">Phd, PMP<span>
+# Çağlar Durmaz <span style="font-size:70%;">Phd, PMP<span>
 
 <div id="webaddress">
 <a href="caglar.durmaz@gmail.com">caglar.durmaz@gmail.com</a>
@@ -26,6 +26,22 @@ __Integra Information & Communication Technologies__
 `2011 – 2016`
 __IT Coordinator__
 - _Turkish Petroleum Refineries Corporation - İzmir Refinery_
+- Managing in-house/outsourced software development and integrating them with existing systems
+- Reporting and presenting the progress of IT projects to the management
+- Preparing and tracking the yearly budget of the IT department
+- Managing a team of 12 people responsible for the IT service desk
+- Adopting and applying appropriate technical and quality strategies and standards
+
+`2006 – 2011`
+__IT Expert__
+
+_Turkish Petroleum Refineries Corporation - İzmir Refinery_
+
+* Developing and implementing new IT solutions from the scratch 
+* System and business analysis
+* Communicating and coordinating IT-related activities with other business functions
+* Developing IT project management procedures 
+* Applying change control and configuration management processes
 
 Standing on the shoulders of giants
 
