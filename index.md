@@ -49,13 +49,17 @@ __Production Systems Engineer (as an Industrial Engineer)__ _@İzmir Teba HVAC T
 - Establishing communication with the suppliers and sales regions
 
 ## EDUCATION
-`2015 – 2022` __Doctor of Philosophy (Ph.D.), Information Technology_
+`2015 – 2022`
+__Doctor of Philosophy (Ph.D.), Information Technology__
 _@International Computer Institute, Ege University_
+`2001 – 2006`	
+__Master of Science (M.Sc.), Computer Engineering_
+_@Dokuz Eylul University_
 
-2001 – 2006	Master of Science (M.Sc.), Computer Engineering
-Dokuz Eylul University
-1997 – 2001	Bachelor's Degree, Industrial Engineering 
-Dokuz Eylul University (Ranking in the top 0.1% among 1.5 million students in National University Placement Exam)
+`1997 – 2001`
+__Bachelor's Degree, Industrial Engineering_ 
+_@Dokuz Eylul University_ 
+(Ranking in the top 0.1% among 1.5 million students in National University Placement Exam)
 
 ## CERTIFICATIONS
 2015 		Project Management Professional (PMP) - Project Management Institute (PMI)
@@ -64,9 +68,9 @@ Dokuz Eylul University (Ranking in the top 0.1% among 1.5 million students in Na
 2009		Microsoft SharePoint Development - BilgeAdam
 
 ## ACADEMIC PUBLICATIONS
-. Durmaz, Ç., Yıldırım, K. S., & Kardas, G. 2022. “Virtualizing Intermittent Computing.” IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2022.3176587. Early Access
-. Durmaz, C., Yildirim, K. S., & Kardas, G. 2019. “PureMEM: A Structured Programming Model for Transiently Powered Computers”, (SAC 2019), Limassol, Cyprus, DOI:10.1145/3297280.3299739
-. Durmaz, C., Challenger, M., Dagdeviren, O. , & Kardas, G. 2017. “Modelling Contiki-based IoT Systems”, (SLATE 2017), Vila do Conde, Portugal, DOI: 10.4230/OASIcs.SLATE.2017.5.
+- Durmaz, Ç., Yıldırım, K. S., & Kardas, G. 2022. “Virtualizing Intermittent Computing.” IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2022.3176587. Early Access
+- Durmaz, C., Yildirim, K. S., & Kardas, G. 2019. “PureMEM: A Structured Programming Model for Transiently Powered Computers”, (SAC 2019), Limassol, Cyprus, DOI:10.1145/3297280.3299739
+- Durmaz, C., Challenger, M., Dagdeviren, O. , & Kardas, G. 2017. “Modelling Contiki-based IoT Systems”, (SLATE 2017), Vila do Conde, Portugal, DOI: 10.4230/OASIcs.SLATE.2017.5.
 
 ## ACHIEVEMENTS
 
