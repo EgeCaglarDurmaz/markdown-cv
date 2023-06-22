@@ -15,15 +15,16 @@ title: Caglar Durmaz's CV
 
 `2016 – now`
 __Managing Director (Founder of the Start-Up)__
-
-__Integra Information & Communication Technologies__
-
+- __Integra Information & Communication Technologies__
 - Leading the company in researching and developing battery-free IoT technologies and edge computing
 - Managing projects supported by the Scientific and Technological Research Council of Turkey 
 - Developing business strategies, managing strategic partnerships, and overseeing product development
 - Applying appropriate project management standards to ensure efficient execution of projects
 - Providing IT-based project support to clients, ensuring their needs were met
 
+`2011 – 2016`
+__IT Coordinator__
+- _Turkish Petroleum Refineries Corporation - İzmir Refinery
 
 Standing on the shoulders of giants
 
