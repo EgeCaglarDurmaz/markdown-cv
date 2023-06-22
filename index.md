@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Çağlar Durmaz
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
