@@ -57,6 +57,46 @@ Dokuz Eylul University
 1997 – 2001	Bachelor's Degree, Industrial Engineering 
 Dokuz Eylul University (Ranking in the top 0.1% among 1.5 million students in National University Placement Exam)
 
+## CERTIFICATIONS
+2015 		Project Management Professional (PMP) - Project Management Institute (PMI)
+2013		ISO-27001 Information Security Management - BTYÖN
+2012 		IT Infrastructure Library (ITIL) V3 Foundation - Bir618
+2009		Microsoft SharePoint Development - BilgeAdam
+
+## ACADEMIC PUBLICATIONS
+. Durmaz, Ç., Yıldırım, K. S., & Kardas, G. 2022. “Virtualizing Intermittent Computing.” IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2022.3176587. Early Access
+. Durmaz, C., Yildirim, K. S., & Kardas, G. 2019. “PureMEM: A Structured Programming Model for Transiently Powered Computers”, (SAC 2019), Limassol, Cyprus, DOI:10.1145/3297280.3299739
+. Durmaz, C., Challenger, M., Dagdeviren, O. , & Kardas, G. 2017. “Modelling Contiki-based IoT Systems”, (SLATE 2017), Vila do Conde, Portugal, DOI: 10.4230/OASIcs.SLATE.2017.5.
+
+## ACHIEVEMENTS
+
+Acceptance from IEEE IoT Journal with a high impact factor for the paper introducing a novel solution for energy harvesting battery-free IoT devices.
+
+Completion of numerous award-winning projects at TUPRAS
+
+Project Management System, Production Planning Order System, Oil Movement Order System, Correspondence Management System, Change Management System, Ontology of Refinery IT Assets, Custom Tank Stocks and SAP Stocks Integration, IBM-Maximo and SAP PM Integration.
+
+Co-inventor of Patent “EP 3 120 495 B1” - “A System and Method for Monitoring and Managing Information Technology Assets” 
+
+## PERSONAL SKILLS
+Good understanding of cooperation goals and creating supportive projects
+
+Comprehensive understanding of technical and commercial needs of projects
+
+Identifying opportunities and filling the gaps between the components using generic and ad hoc methods
+
+Ensuring a good working environment for all members of the team to perform at their bests
+
+Managing project risks and conflict management
+
+Developing a strong relationship with the customers and stakeholders from diverse departments
+
+Leading cross-discipline projects, building engagement and inspiration
+
+Conducting computer science research, applying the research to business and commercial objectives
+
+Managing resistance to organizational change
+
 
 ### Specialized in
 
