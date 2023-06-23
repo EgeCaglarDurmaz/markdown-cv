@@ -17,7 +17,7 @@ title: Caglar Durmaz's CV
 <!-- __Managing Director (Founder of the Start-Up)__ _@Integra ICT_ -->
 ### Managing Director 
 `2016 – now`
-_@Integra ICT_ 
+_@Integra Information & Communication Technologies_ 
 
 ***Management***
 ■ Leading the company in researching and developing battery-free IoT technologies and edge computing
@@ -62,11 +62,10 @@ _@Boğaziçi Yazılım Corporation_
 ■ IT solution analysis, design, and documentation
 ■ Providing user training and system support for asset management software, IBM-Maximo
 
-### Production Systems Engineer
+### Production Engineer
 `2004 – 2005`
 _@İzmir Teba HVAC Tech. Corporation_
 
-***Management***
 ■ Managing a team of 20 people; assigning them tasks, and motivating them to meet deadlines
 ■ Preparing daily, weekly production plans, automation of assembly line 
 ■ Establishing communication with the suppliers and sales regions
@@ -98,7 +97,7 @@ IT Infrastructure Library (ITIL) V3 Foundation  _@Bir618_
 `2009`
 Microsoft SharePoint Development _@BilgeAdam_
 
-## ACADEMIC PUBLICATIONS
+## PUBLICATIONS
 `2022`
 __“Virtualizing Intermittent Computing.”__
 _@IEEE Internet of Things Journal_
