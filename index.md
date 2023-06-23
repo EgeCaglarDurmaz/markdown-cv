@@ -10,6 +10,24 @@ title: Caglar Durmaz's CV
 | <a href="https://en.wikipedia.org/wiki/%c4%b0zmir">Izmir/Turkey</a>
 </div>
 
+
+## PROFILE
+Able to break down complex problems into their fundamental concepts and reassemble them into effective and long-lasting solutions, with a focus on creating testable and reusable code. Has experience in architecting and designing solutions. Experienced in multiple tech stacks and enthusiastic to learn more. Works well in a team, can also take initiative, and is eager to support colleagues.
+
+## TECHNICAL SKILLS 
+-      Javascript, Typescript, Node.js, Express
+-      Java, Spring Boot, Apache Kafka
+-      C, embedded C for microcontrollers
+-      Good understanding of object-oriented, functional, event-driven programming
+-      Experience with architectural designs (layered, distributed), SOLID, SoC, and IoC principles
+-      Write reusable, testable, and efficient code
+-      Strong unit-testing and debugging skills
+-      Good understanding of database design. Worked with Oracle DB, PostgreSQL, and MongoDB.
+-      Docker, Git
+-      Agile methodologies, Scrum
+
+
+
 <!-- https://www.symbolspy.com/dot-symbol.html -->
 ## WORK EXPERIENCE
 
@@ -71,15 +89,18 @@ _@İzmir Teba HVAC Tech. Corporation_
 ■ Establishing communication with the suppliers and sales regions
 
 ## EDUCATION
-`2015 – 2022`
+`2022`
+<!-- `2015 – 2022` -->
 __Doctor of Philosophy (Ph.D.)__ Information Technology
 - _@International Computer Institute, Ege University_
 
-`2001 – 2006`	
+`2006`	
+<!-- `2001 – 2006`	 -->
 __Master of Science (M.Sc.)__ _Computer Engineering_
 - _@Dokuz Eylul University_
 
-`1997 – 2001`
+`2001`
+<!-- `1997 – 2001` -->
 __Bachelor's Degree__ _Industrial Engineering_ 
 - _@Dokuz Eylul University_ 
 - (Ranking in the top 0.1% <!--among 1.5 million students--> in National University Placement Exam)
