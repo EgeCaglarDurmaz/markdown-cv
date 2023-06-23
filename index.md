@@ -24,14 +24,19 @@ _@Integra ICT_
 ■ Managing projects supported by the Scientific and Technological Research Council of Turkey 
 ■ Developing business strategies, managing strategic partnerships, and overseeing product development
 ■ Applying appropriate project management standards to ensure efficient execution of projects
+
 ***Development***
 ■ Providing IT-based project support to clients, ensuring their needs were met
 
 ### IT Coordinator 
 `2011 – 2016`
 _@Turkish Petroleum Refineries Corporation_
+
+***Management***
 ■ Managing in-house/outsourced software development and integrating them with existing systems
 ■ Reporting and presenting the progress of IT projects to the management
+
+***Development***
 ■ Preparing and tracking the yearly budget of the IT department
 ■ Managing a team of 12 people responsible for the IT service desk
 ■ Adopting and applying appropriate technical and quality strategies and standards
@@ -39,8 +44,12 @@ _@Turkish Petroleum Refineries Corporation_
 ### IT Expert 
 `2006 – 2011`
 _@Turkish Petroleum Refineries Corporation_
+
+***Management***
 ■ Developing and implementing new IT solutions from the scratch 
 ■ System and business analysis
+
+***Development***
 ■ Communicating and coordinating IT-related activities with other business functions
 ■ Developing IT project management procedures 
 ■ Applying change control and configuration management processes
@@ -48,12 +57,16 @@ _@Turkish Petroleum Refineries Corporation_
 ### Application Consultant
 `2005 – 2006`
 _@Boğaziçi Yazılım Corporation_
+
+***Development***
 ■ IT solution analysis, design, and documentation
 ■ Providing user training and system support for asset management software, IBM-Maximo
 
 ### Production Systems Engineer
 `2004 – 2005`
 _@İzmir Teba HVAC Tech. Corporation_
+
+***Management***
 ■ Managing a team of 20 people; assigning them tasks, and motivating them to meet deadlines
 ■ Preparing daily, weekly production plans, automation of assembly line 
 ■ Establishing communication with the suppliers and sales regions
