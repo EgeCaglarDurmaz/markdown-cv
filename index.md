@@ -60,7 +60,7 @@ __Master of Science (M.Sc.)__ _Computer Engineering_
 `1997 – 2001`
 __Bachelor's Degree__ _Industrial Engineering_ 
 - _@Dokuz Eylul University_ 
-- (Ranking in the top 0.1% among 1.5 million students in National University Placement Exam)
+- (Ranking in the top 0.1% <!--among 1.5 million students--> in National University Placement Exam)
 
 ## CERTIFICATIONS
 `2015`
