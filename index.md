@@ -15,8 +15,8 @@ title: Caglar Durmaz's CV
 
 <!-- `2016 – now` -->
 <!-- __Managing Director (Founder of the Start-Up)__ _@Integra ICT_ -->
-### Managing Director 
-`2016 – now<br/>@Integra ICT `
+### Managing Director @Integra ICT 
+`2016 – now`
 ***Management***
   ■ Leading the company in researching and developing battery-free IoT technologies and edge computing
   ■ Managing projects supported by the Scientific and Technological Research Council of Turkey 
@@ -24,29 +24,30 @@ title: Caglar Durmaz's CV
   ■ Applying appropriate project management standards to ensure efficient execution of projects ■ 
 ***Development***
   ■ Providing IT-based project support to clients, ensuring their needs were met ■ 
+
+### __IT Coordinator__ _@Turkish Petroleum Refineries Corporation_
 `2011 – 2016`
-__IT Coordinator__ _@Turkish Petroleum Refineries Corporation_
 - Managing in-house/outsourced software development and integrating them with existing systems
 - Reporting and presenting the progress of IT projects to the management
 - Preparing and tracking the yearly budget of the IT department
 - Managing a team of 12 people responsible for the IT service desk
 - Adopting and applying appropriate technical and quality strategies and standards
 
+### __IT Expert__ _@Turkish Petroleum Refineries Corporation_
 `2006 – 2011`
-__IT Expert__ _@Turkish Petroleum Refineries Corporation_
 * Developing and implementing new IT solutions from the scratch 
 * System and business analysis
 * Communicating and coordinating IT-related activities with other business functions
 * Developing IT project management procedures 
 * Applying change control and configuration management processes
 
+### __Application Consultant (as a Computer Engineer)__ _@Boğaziçi Yazılım Corporation_
 `2005 – 2006`
-__Application Consultant (as a Computer Engineer)__ _@Boğaziçi Yazılım Corporation_
 - IT solution analysis, design, and documentation
 - Providing user training and system support for asset management software, IBM-Maximo
 
+### __Production Systems Engineer (as an Industrial Engineer)__ _@İzmir Teba HVAC Tech. Corporation_
 `2004 – 2005`
-__Production Systems Engineer (as an Industrial Engineer)__ _@İzmir Teba HVAC Tech. Corporation_
 - Managing a team of 20 people; assigning them tasks, and motivating them to meet deadlines
 - Preparing daily, weekly production plans, automation of assembly line 
 - Establishing communication with the suppliers and sales regions
