@@ -15,12 +15,12 @@ title: Caglar Durmaz's CV
 
 `2016 – now`
 __Managing Director (Founder of the Start-Up)__ _@Integra ICT_
-- _Management_ 
+- <ins>_Management_</ins>
   • Leading the company in researching and developing battery-free IoT technologies and edge computing
   • Managing projects supported by the Scientific and Technological Research Council of Turkey 
   • Developing business strategies, managing strategic partnerships, and overseeing product development
   • Applying appropriate project management standards to ensure efficient execution of projects
-- _Development_
+- _<ins>Development_</ins>
   • Providing IT-based project support to clients, ensuring their needs were met
 
 `2011 – 2016`
