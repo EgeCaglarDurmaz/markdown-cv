@@ -78,12 +78,21 @@ Microsoft SharePoint Development _@BilgeAdam_
 ## ACADEMIC PUBLICATIONS
 `2022`
 __“Virtualizing Intermittent Computing.”__
-- Durmaz, Ç., Yıldırım, K. S., & Kardas, G. 
-- @IEEE Internet of Things Journal
-- DOI: 10.1109/JIOT.2022.3176587.
+_@IEEE Internet of Things Journal_
+- Durmaz, Ç., Yıldırım, K. S., & Kardas, G.
+<!-- - DOI: 10.1109/JIOT.2022.3176587. -->
 
-- Durmaz, C., Yildirim, K. S., & Kardas, G. 2019. “PureMEM: A Structured Programming Model for Transiently Powered Computers”, (SAC 2019), Limassol, Cyprus, DOI:10.1145/3297280.3299739
-- Durmaz, C., Challenger, M., Dagdeviren, O. , & Kardas, G. 2017. “Modelling Contiki-based IoT Systems”, (SLATE 2017), Vila do Conde, Portugal, DOI: 10.4230/OASIcs.SLATE.2017.5.
+`2019`
+__“PureMEM: A Structured Programming Model for Transiently Powered Computers”__
+_@ SAC 2019, Limassol, Cyprus_ 
+- Durmaz, C., Yildirim, K. S., & Kardas, G.
+<!-- DOI:10.1145/3297280.3299739 -->
+
+`2017` 
+__“Modelling Contiki-based IoT Systems”__ 
+_@ SLATE 2017, Vila do Conde, Portugal_
+- Durmaz, C., Challenger, M., Dagdeviren, O. , & Kardas, G. 
+<!-- DOI: 10.4230/OASIcs.SLATE.2017.5. -->
 
 ## ACHIEVEMENTS
 
