@@ -13,9 +13,10 @@ title: Caglar Durmaz's CV
 <!-- https://www.symbolspy.com/dot-symbol.html -->
 ## WORK EXPERIENCE
 
-`2016 – now`
-__Managing Director (Founder of the Start-Up)__ _@Integra ICT_
-### Management
+<!-- `2016 – now` -->
+<!-- __Managing Director (Founder of the Start-Up)__ _@Integra ICT_ -->
+### 2016 – now <br/> Managing Director <br/> @Integra ICT 
+Management
   ■ Leading the company in researching and developing battery-free IoT technologies and edge computing
   ■ Managing projects supported by the Scientific and Technological Research Council of Turkey 
   ■ Developing business strategies, managing strategic partnerships, and overseeing product development
