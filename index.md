@@ -10,17 +10,17 @@ title: Caglar Durmaz's CV
 | <a href="https://en.wikipedia.org/wiki/%c4%b0zmir">Izmir/Turkey</a>
 </div>
 
-
+<!-- https://www.symbolspy.com/dot-symbol.html -->
 ## WORK EXPERIENCE
 
 `2016 – now`
 __Managing Director (Founder of the Start-Up)__ _@Integra ICT_
-- <ins>Management:</ins>
-  Leading the company in researching and developing battery-free IoT technologies and edge computing
-  • Managing projects supported by the Scientific and Technological Research Council of Turkey 
+### Management
+  ■ Leading the company in researching and developing battery-free IoT technologies and edge computing
+  ■ Managing projects supported by the Scientific and Technological Research Council of Turkey 
   ■ Developing business strategies, managing strategic partnerships, and overseeing product development
-  • Applying appropriate project management standards to ensure efficient execution of projects
-- <ins>Development:</ins>
+  ■ Applying appropriate project management standards to ensure efficient execution of projects
+### Development
   Providing IT-based project support to clients, ensuring their needs were met
 
 `2011 – 2016`
