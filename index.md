@@ -64,18 +64,24 @@ __Bachelor's Degree__ _Industrial Engineering_
 
 ## CERTIFICATIONS
 `2015`
-Project Management Professional (PMP)  Project Management Institute (PMI)
+Project Management Professional (PMP) - Project Management Institute (PMI)
 
 `2013`
-ISO-27001 Information Security Management @BTYÖN
+ISO-27001 Information Security Management _@BTYÖN_
 
 `2012`
-IT Infrastructure Library (ITIL) V3 Foundation  @Bir618
-- `2009`
-- Microsoft SharePoint Development _@BilgeAdam_
+IT Infrastructure Library (ITIL) V3 Foundation  _@Bir618_
+
+`2009`
+Microsoft SharePoint Development _@BilgeAdam_
 
 ## ACADEMIC PUBLICATIONS
-- Durmaz, Ç., Yıldırım, K. S., & Kardas, G. 2022. “Virtualizing Intermittent Computing.” IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2022.3176587. Early Access
+`2022`
+__“Virtualizing Intermittent Computing.”__
+- Durmaz, Ç., Yıldırım, K. S., & Kardas, G. 
+- @IEEE Internet of Things Journal
+- DOI: 10.1109/JIOT.2022.3176587.
+
 - Durmaz, C., Yildirim, K. S., & Kardas, G. 2019. “PureMEM: A Structured Programming Model for Transiently Powered Computers”, (SAC 2019), Limassol, Cyprus, DOI:10.1145/3297280.3299739
 - Durmaz, C., Challenger, M., Dagdeviren, O. , & Kardas, G. 2017. “Modelling Contiki-based IoT Systems”, (SLATE 2017), Vila do Conde, Portugal, DOI: 10.4230/OASIcs.SLATE.2017.5.
 
