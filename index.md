@@ -15,25 +15,16 @@ title: Caglar Durmaz's CV
 Able to break down complex problems into their fundamental concepts and reassemble them into effective and long-lasting solutions, with a focus on creating testable and reusable code. Has experience in architecting and designing solutions. Experienced in multiple tech stacks and enthusiastic to learn more. Works well in a team, can also take initiative, and is eager to support colleagues.
 
 ## TECHNICAL SKILLS 
-Javascript, Typescript, Node.js, Express
-
-Java, Spring Boot, Apache Kafka
-
-C, embedded C for microcontrollers
-
-Good understanding of object-oriented, functional, event-driven programming
-
-Experience with architectural designs (layered, distributed), SOLID, SoC, and IoC principles
-
-Write reusable, testable, and efficient code
-
-Strong unit-testing and debugging skills
-
-Good understanding of database design. Worked with Oracle DB, PostgreSQL, and MongoDB.
-
-Docker, Git
-
-Agile methodologies, Scrum
+■ Javascript, Typescript, Node.js, Express
+■ Java, Spring Boot, Apache Kafka
+■ C, embedded C for microcontrollers
+■ Good understanding of object-oriented, functional, event-driven programming
+■ Experience with architectural designs (layered, distributed), SOLID, SoC, and IoC principles
+■ Write reusable, testable, and efficient code
+■ Strong unit-testing and debugging skills
+■ Good understanding of database design. Worked with Oracle DB, PostgreSQL, and MongoDB.
+■ Docker, Git
+■ Agile methodologies, Scrum
 
 
 
