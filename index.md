@@ -46,14 +46,18 @@ Agile methodologies, Scrum
 `2016 – now`
 _@Integra Information & Communication Technologies_ 
 
-***Management***
-■ Leading the company in researching and developing battery-free IoT technologies and edge computing
-■ Managing projects supported by the Scientific and Technological Research Council of Turkey 
-■ Developing business strategies, managing strategic partnerships, and overseeing product development
-■ Applying appropriate project management standards to ensure efficient execution of projects
 
-***Development***
-■ Providing IT-based project support to clients, ensuring their needs were met
+***Managerial***
+■ Led the company in researching and developing IoT technologies and edge computing.
+■ Managed projects supported by the Scientific and Technological Research Council of Turkey.
+■ Developed business strategies, managed strategic partnerships, and oversaw product development.
+■ Applied appropriate project management standards to ensure efficient execution of projects.
+■ Provided IT-based project support to clients and ensured their needs were met.
+
+***Technical***
+■ Developed a programming language and its compiler that overcame the unique challenges of battery-free IoT devices.
+■ Designed and developed a virtual machine as a runtime environment for battery-free IoT devices running on microcontrollers. The design utilized interrupts inspired by the JavaScript runtime engine.
+■ Designed a new development kit for battery-free energy harvesting from solar and radio frequency in collaboration with an electronic engineer. Developed applications that retrieved sensor data such as temperature and accelerometer, and transmitted them via Bluetooth and LoRaWAN.
 
 ### IT Coordinator 
 `2011 – 2016`
