@@ -26,7 +26,7 @@ Able to break down complex problems into their fundamental concepts and reassemb
 ■ Docker, Git
 ■ Agile methodologies, Scrum
 
-## MANAGERIAL SKILLS
+## SOFT SKILLS
 ■ Good understanding of cooperation goals and creating supportive projects
 ■ Comprehensive understanding of technical and commercial needs of projects
 ■ Identifying opportunities and filling the gaps between the components using generic and ad hoc methods
@@ -34,7 +34,7 @@ Able to break down complex problems into their fundamental concepts and reassemb
 ■ Managing project risks and conflict management
 ■ Developing a strong relationship with the customers and stakeholders from diverse departments
 ■ Leading cross-discipline projects, building engagement and inspiration
-■ Conducting computer science research, applying the research to business and commercial objectives
+■ Conducting computer science research and applying it to business and commercial objectives
 ■ Managing resistance to organizational change
 
 <!-- https://www.symbolspy.com/dot-symbol.html -->
