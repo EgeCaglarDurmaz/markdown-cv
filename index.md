@@ -26,7 +26,16 @@ Able to break down complex problems into their fundamental concepts and reassemb
 ■ Docker, Git
 ■ Agile methodologies, Scrum
 
-
+## MANAGERIAL SKILLS
+■ Good understanding of cooperation goals and creating supportive projects
+■ Comprehensive understanding of technical and commercial needs of projects
+■ Identifying opportunities and filling the gaps between the components using generic and ad hoc methods
+■ Ensuring a good working environment for all members of the team to perform at their bests
+■ Managing project risks and conflict management
+■ Developing a strong relationship with the customers and stakeholders from diverse departments
+■ Leading cross-discipline projects, building engagement and inspiration
+■ Conducting computer science research, applying the research to business and commercial objectives
+■ Managing resistance to organizational change
 
 <!-- https://www.symbolspy.com/dot-symbol.html -->
 ## WORK EXPERIENCE
@@ -150,24 +159,35 @@ Completion of numerous award-winning software projects at TUPRAS
 
 Co-inventor of Patent “EP 3 120 495 B1” - “A System and Method for Monitoring and Managing Information Technology Assets” 
 
-## PERSONAL SKILLS
-Good understanding of cooperation goals and creating supportive projects
+## MANAGERIAL SKILLS
+■ Good understanding of cooperation goals and creating supportive projects
+■ Comprehensive understanding of technical and commercial needs of projects
+■ Identifying opportunities and filling the gaps between the components using generic and ad hoc methods
+■ Ensuring a good working environment for all members of the team to perform at their bests
+■ Managing project risks and conflict management
+■ Developing a strong relationship with the customers and stakeholders from diverse departments
+■ Leading cross-discipline projects, building engagement and inspiration
+■ Conducting computer science research, applying the research to business and commercial objectives
+■ Managing resistance to organizational change
 
-Comprehensive understanding of technical and commercial needs of projects
 
-Identifying opportunities and filling the gaps between the components using generic and ad hoc methods
-
-Ensuring a good working environment for all members of the team to perform at their bests
-
-Managing project risks and conflict management
-
-Developing a strong relationship with the customers and stakeholders from diverse departments
-
-Leading cross-discipline projects, building engagement and inspiration
-
-Conducting computer science research, applying the research to business and commercial objectives
-
-Managing resistance to organizational change
+<!-- Good understanding of cooperation goals and creating supportive projects -->
+<!---->
+<!-- Comprehensive understanding of technical and commercial needs of projects -->
+<!---->
+<!-- Identifying opportunities and filling the gaps between the components using generic and ad hoc methods -->
+<!---->
+<!-- Ensuring a good working environment for all members of the team to perform at their bests -->
+<!---->
+<!-- Managing project risks and conflict management -->
+<!---->
+<!-- Developing a strong relationship with the customers and stakeholders from diverse departments -->
+<!---->
+<!-- Leading cross-discipline projects, building engagement and inspiration -->
+<!---->
+<!-- Conducting computer science research, applying the research to business and commercial objectives -->
+<!---->
+<!-- Managing resistance to organizational change -->
 
 
 ### Specialized in
