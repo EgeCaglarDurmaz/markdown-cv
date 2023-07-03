@@ -13,7 +13,9 @@ title: Caglar Durmaz
 ## PROFILE
 Able to break down complex problems into their fundamental concepts and reassemble them into effective and long-lasting solutions, with a focus on creating testable and reusable code. Has experience in architecting and designing solutions. Experienced in multiple tech stacks and enthusiastic to learn more. Works well in a team, can also take initiative, and is eager to support colleagues. Project Management and Collaboration Skills
 
-## TECHNICAL SKILLS 
+## SKILLS 
+
+***Technical***
 ■ Javascript, Typescript, Node.js, Express
 ■ Java, Spring Boot, Apache Kafka
 ■ C, embedded C for microcontrollers
@@ -25,7 +27,7 @@ Able to break down complex problems into their fundamental concepts and reassemb
 ■ Docker, Git
 ■ Agile methodologies, Scrum
 
-## SOFT SKILLS
+***Soft***
 ■ Good understanding of cooperation goals and creating supportive projects
 ■ Comprehensive understanding of technical and commercial needs of projects
 ■ Identifying opportunities and filling the gaps between the components using generic and ad hoc methods
