@@ -2,7 +2,8 @@
 layout: cv
 title: Caglar Durmaz
 ---
-# Çağlar Durmaz <!--<span style="font-size:70%;">PhD, PMP<span>-->
+# Çağlar Durmaz 1 
+<span style="font-size:70%;">PhD, PMP<span>
 <div id="webaddress">
 <a href="caglar.durmaz@gmail.com">caglar.durmaz@gmail.com</a>
 | <a href="+905325075912">+905325075912</a>
