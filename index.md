@@ -1,18 +1,16 @@
 ---
 layout: cv
-title: Caglar Durmaz's CV
+title: Caglar Durmaz
 ---
-# Çağlar Durmaz <span style="font-size:70%;">PhD, PMP<span>
-
+# Çağlar Durmaz <!--<span style="font-size:70%;">PhD, PMP<span>-->
 <div id="webaddress">
 <a href="caglar.durmaz@gmail.com">caglar.durmaz@gmail.com</a>
 | <a href="+905325075912">+905325075912</a>
 | <a href="https://en.wikipedia.org/wiki/%c4%b0zmir">Izmir/Turkey</a>
 </div>
 
-
 ## PROFILE
-Able to break down complex problems into their fundamental concepts and reassemble them into effective and long-lasting solutions, with a focus on creating testable and reusable code. Has experience in architecting and designing solutions. Experienced in multiple tech stacks and enthusiastic to learn more. Works well in a team, can also take initiative, and is eager to support colleagues.
+Able to break down complex problems into their fundamental concepts and reassemble them into effective and long-lasting solutions, with a focus on creating testable and reusable code. Has experience in architecting and designing solutions. Experienced in multiple tech stacks and enthusiastic to learn more. Works well in a team, can also take initiative, and is eager to support colleagues. Project Management and Collaboration Skills
 
 ## TECHNICAL SKILLS 
 ■ Javascript, Typescript, Node.js, Express
@@ -46,7 +44,6 @@ Able to break down complex problems into their fundamental concepts and reassemb
 `2016 – now`
 _@Integra Information & Communication Technologies_ 
 
-
 ***Managerial***
 ■ Led the company in researching and developing IoT technologies and edge computing.
 ■ Managed projects supported by the Scientific and Technological Research Council of Turkey.
@@ -63,11 +60,11 @@ _@Integra Information & Communication Technologies_
 `2011 – 2016`
 _@Turkish Petroleum Refineries Corporation_
 
-***Management***
+***Managerial***
 ■ Managing in-house/outsourced software development and integrating them with existing systems
 ■ Reporting and presenting the progress of IT projects to the management
 
-***Development***
+***Technical***
 ■ Preparing and tracking the yearly budget of the IT department
 ■ Managing a team of 12 people responsible for the IT service desk
 ■ Adopting and applying appropriate technical and quality strategies and standards
@@ -76,11 +73,8 @@ _@Turkish Petroleum Refineries Corporation_
 `2006 – 2011`
 _@Turkish Petroleum Refineries Corporation_
 
-***Management***
 ■ Developing and implementing new IT solutions from the scratch 
 ■ System and business analysis
-
-***Development***
 ■ Communicating and coordinating IT-related activities with other business functions
 ■ Developing IT project management procedures 
 ■ Applying change control and configuration management processes
@@ -89,7 +83,6 @@ _@Turkish Petroleum Refineries Corporation_
 `2005 – 2006`
 _@Boğaziçi Yazılım Corporation_
 
-***Development***
 ■ IT solution analysis, design, and documentation
 ■ Providing user training and system support for asset management software, IBM-Maximo
 
@@ -159,35 +152,24 @@ Completion of numerous award-winning software projects at TUPRAS
 
 Co-inventor of Patent “EP 3 120 495 B1” - “A System and Method for Monitoring and Managing Information Technology Assets” 
 
-## MANAGERIAL SKILLS
-■ Good understanding of cooperation goals and creating supportive projects
-■ Comprehensive understanding of technical and commercial needs of projects
-■ Identifying opportunities and filling the gaps between the components using generic and ad hoc methods
-■ Ensuring a good working environment for all members of the team to perform at their bests
-■ Managing project risks and conflict management
-■ Developing a strong relationship with the customers and stakeholders from diverse departments
-■ Leading cross-discipline projects, building engagement and inspiration
-■ Conducting computer science research, applying the research to business and commercial objectives
-■ Managing resistance to organizational change
+## PERSONAL SKILLS
+Good understanding of cooperation goals and creating supportive projects
 
+Comprehensive understanding of technical and commercial needs of projects
 
-<!-- Good understanding of cooperation goals and creating supportive projects -->
-<!---->
-<!-- Comprehensive understanding of technical and commercial needs of projects -->
-<!---->
-<!-- Identifying opportunities and filling the gaps between the components using generic and ad hoc methods -->
-<!---->
-<!-- Ensuring a good working environment for all members of the team to perform at their bests -->
-<!---->
-<!-- Managing project risks and conflict management -->
-<!---->
-<!-- Developing a strong relationship with the customers and stakeholders from diverse departments -->
-<!---->
-<!-- Leading cross-discipline projects, building engagement and inspiration -->
-<!---->
-<!-- Conducting computer science research, applying the research to business and commercial objectives -->
-<!---->
-<!-- Managing resistance to organizational change -->
+Identifying opportunities and filling the gaps between the components using generic and ad hoc methods
+
+Ensuring a good working environment for all members of the team to perform at their bests
+
+Managing project risks and conflict management
+
+Developing a strong relationship with the customers and stakeholders from diverse departments
+
+Leading cross-discipline projects, building engagement and inspiration
+
+Conducting computer science research, applying the research to business and commercial objectives
+
+Managing resistance to organizational change
 
 
 ### Specialized in
