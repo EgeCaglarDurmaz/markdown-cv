@@ -144,18 +144,19 @@ _@IEEE Internet of Things Journal_
 
 `2019`
 __“PureMEM: A Structured Programming Model for Transiently Powered Computers”__
-_@ SAC 2019, Limassol, Cyprus_ 
+_@SAC 2019, Limassol, Cyprus_ 
 - Durmaz, C., Yildirim, K. S., & Kardas, G.
 <!-- DOI:10.1145/3297280.3299739 -->
 
 `2017` 
 __“Modelling Contiki-based IoT Systems”__ 
-_@ SLATE 2017, Vila do Conde, Portugal_
+_@SLATE 2017, Vila do Conde, Portugal_
 - Durmaz, C., Challenger, M., Dagdeviren, O. , & Kardas, G. 
 <!-- DOI: 10.4230/OASIcs.SLATE.2017.5. -->
 
 `2016`
-Co-inventor of Patent “EP 3 120 495 B1” - “A System and Method for Monitoring and Managing Information Technology Assets” 
+__“A System and Method for Monitoring and Managing Information Technology Assets”__ _@European Patent “EP 3 120 495 B1”_
+- Aydoğan B., Aydın M., Bakır M., Durmaz Ç., Ünalır M. O., Pesen M. K. 
 
 <!--
 ## ACHIEVEMENTS
@@ -208,5 +209,4 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 <!-- ### Footer
 
 Last updated: May 2013 -->
--->
 
