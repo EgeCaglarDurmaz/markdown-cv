@@ -155,6 +155,11 @@ _@SLATE 2017, Vila do Conde, Portugal_
 - Durmaz, C., Challenger, M., Dagdeviren, O. , & Kardas, G. 
 <!-- DOI: 10.4230/OASIcs.SLATE.2017.5. -->
 
+2017
+__"Engineering a BDI Agent-based Semantic e-Barter System" __
+_@UBMK 2017, Antalya, Turkey_
+- Cakmaz, Y. E., Alaca, O. F., Durmaz, C., Akdal, B., Tezel, B., Challenger, M. and Kardas, G.
+
 `2016`
 __“A System and Method for Monitoring and Managing Information Technology Assets”__ _@European Patent “EP 3 120 495 B1”_
 - Aydoğan B., Aydın M., Bakır M., Durmaz Ç., Ünalır M. O., Pesen M. K. 
