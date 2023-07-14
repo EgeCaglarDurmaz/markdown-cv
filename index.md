@@ -139,29 +139,30 @@ Microsoft SharePoint Development _@BilgeAdam_
 ## PUBLICATIONS
 `2022`
 __“Virtualizing Intermittent Computing.”__
-_@IEEE Internet of Things Journal_
+- _@IEEE Internet of Things Journal_
 - Durmaz, Ç., Yıldırım, K. S., & Kardas, G.
 <!-- - DOI: 10.1109/JIOT.2022.3176587. -->
 
 `2019`
 __“PureMEM: A Structured Programming Model for Transiently Powered Computers”__
-_@SAC 2019, Limassol, Cyprus_ 
+- _@SAC 2019, Limassol, Cyprus_ 
 - Durmaz, C., Yildirim, K. S., & Kardas, G.
 <!-- DOI:10.1145/3297280.3299739 -->
 
 `2017` 
 __“Modelling Contiki-based IoT Systems”__ 
-_@SLATE 2017, Vila do Conde, Portugal_
+- _@SLATE 2017, Vila do Conde, Portugal_
 - Durmaz, C., Challenger, M., Dagdeviren, O. , & Kardas, G. 
 <!-- DOI: 10.4230/OASIcs.SLATE.2017.5. -->
 
 `2017`
 __"Engineering a BDI Agent-based Semantic e-Barter System" __
-_@UBMK 2017, Antalya, Turkey_
+- _@UBMK 2017, Antalya, Turkey_
 - Cakmaz, Y. E., Alaca, O. F., Durmaz, C., Akdal, B., Tezel, B., Challenger, M. and Kardas, G.
 
 `2016`
-__“A System and Method for Monitoring and Managing Information Technology Assets”__ _@European Patent “EP 3 120 495 B1”_
+__“A System and Method for Monitoring and Managing Information Technology Assets”__ 
+- _@European Patent “EP 3 120 495 B1”_
 - Aydoğan B., Aydın M., Bakır M., Durmaz Ç., Ünalır M. O., Pesen M. K. 
 
 <!--
