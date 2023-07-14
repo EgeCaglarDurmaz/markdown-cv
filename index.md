@@ -155,7 +155,7 @@ _@SLATE 2017, Vila do Conde, Portugal_
 - Durmaz, C., Challenger, M., Dagdeviren, O. , & Kardas, G. 
 <!-- DOI: 10.4230/OASIcs.SLATE.2017.5. -->
 
-2017
+`2017`
 __"Engineering a BDI Agent-based Semantic e-Barter System" __
 _@UBMK 2017, Antalya, Turkey_
 - Cakmaz, Y. E., Alaca, O. F., Durmaz, C., Akdal, B., Tezel, B., Challenger, M. and Kardas, G.
