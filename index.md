@@ -61,6 +61,7 @@ _@Integra Information & Communication Technologies_
 ■ Collaborated with an electronic engineer to design a new development kit for battery-free energy harvesting from solar and radio frequency. Developed applications that retrieved sensor data (such as temperature and accelerometer) and transmitted them via Bluetooth and LoRaWAN.
 ■ Designed and implemented a robust alert system on Telegram using Kafka, Node.js, and Docker. The system, hosted on an in-house server, facilitated real-time notifications for crypto trading.
 
+## WORK EXPERIENCE (Cont.)
 ### IT Coordinator 
 `2011 – 2016`
 _@Turkish Petroleum Refineries Corporation_
