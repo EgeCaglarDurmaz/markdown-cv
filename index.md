@@ -140,7 +140,7 @@ Microsoft SharePoint Development _@BilgeAdam_
 `2022`
 __“Virtualizing Intermittent Computing.”__
 - _@IEEE Internet of Things Journal_
-- Durmaz, Ç., Yıldırım, K. S., & Kardas, G.
+- Durmaz, C., Yıldırım, K. S., & Kardas, G.
 <!-- - DOI: 10.1109/JIOT.2022.3176587. -->
 
 `2019`
